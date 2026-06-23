@@ -1,0 +1,16 @@
+html,body{
+    height: 100%;   
+}
+body{
+    background: linear-gradient(to bottom , red 0%,white 100%);
+    background-repeat: no-repeat;
+    color: #f9f9f9;
+    text-align: center; 
+}
+h2{ 
+    color: #f9f9f9;
+    font-weight: bold;
+}
+.q{
+    font-style: italic;
+}
