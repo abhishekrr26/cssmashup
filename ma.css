@@ -1,6 +1,6 @@
 html, body {
-  height: 100%;       /* Make sure both fill the viewport */
-  margin: 0;          /* Remove default body margin */
+  height: 100%;      
+  margin: 0;          
 }
 
 body {
