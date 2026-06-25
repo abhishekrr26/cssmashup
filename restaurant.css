@@ -1,0 +1,45 @@
+div{
+    width: 500px;
+    height: 600px;
+    background: linear-gradient(rgba(223, 255, 14, 0.866),rgb(255, 255, 255));
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding-top: 15px;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    text-align: right;
+    padding-right: 10px;
+}
+table{
+    width: 300px;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-collapse: collapse;
+  
+}
+table,td,th{
+    border: solid;
+    border-color: black;
+}
+td{
+   text-align: center;
+   }
+
+.op{
+    padding-top: 50px;
+    display: block;
+    text-decoration: none;
+}
+.op:hover{
+    color: red;
+    text-decoration: none;
+}
