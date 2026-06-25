@@ -1,0 +1,21 @@
+.q{
+    background: linear-gradient(rgb(93, 0, 156),rgb(0, 0, 0));
+    border: 5px solid rgb(68, 5, 84) ;
+    width: 600px;
+    height: 600px;
+    border-radius: 12px;
+
+}
+.w{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+h1{
+    margin-left: 250px;
+    color: aliceblue;
+    font-weight: bolder;
+}
+p{  text-align: center;
+    color: aliceblue;
+    padding: 5px;
+}
