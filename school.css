@@ -1,0 +1,39 @@
+html,body{
+    height: 100%;
+}
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/03/69/00/58/360_F_369005893_UYbUUUHDiB0HT7vs7EpO0JZ4vf830R5K.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 40px;
+    color: aliceblue;
+}
+img{
+    float: left; 
+    height: 200px; 
+    padding-right: 4px;
+    padding-left: 5px;
+}
+div{
+    position: relative;
+    left: 510px ;
+    width: 450px;
+    height: 350px;
+    overflow: scroll;
+    background-image: url("https://img.freepik.com/premium-photo/back-school-background-with-school-supplies_343732-13264.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    line-height: 1.5;
+}
+h4{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 12pxpx;
+}
