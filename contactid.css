@@ -1,0 +1,41 @@
+header{
+    position: fixed;
+    left: 45%;
+    font-size: 30px;
+    margin-top: 70px;
+    text-decoration: underline;
+}
+img{
+    position: relative;
+    top: 200px;
+    left: 75px;
+    border-right: dashed;
+    padding:40px;
+}
+.t{
+    position: relative;
+    bottom: 130px;
+    left: 400px;
+    padding-left: 20px;
+    line-height: 45px;
+    border-right: dashed;
+    width: 450px;
+    height: 320px;
+    font-size: 17px;
+}
+.l{
+position:relative;
+left: 900px;
+width: 500px;
+bottom: 440px;
+}
+table,th,td{
+    border: solid;
+    border-collapse: collapse;
+    width: 500px;
+    height: 70px;
+   
+}
+td{
+    text-align: center;
+}
