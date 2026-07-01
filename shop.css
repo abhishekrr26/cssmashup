@@ -1,0 +1,43 @@
+
+
+
+div{
+    background-color: aliceblue;
+    position: relative;
+    left: 35%;
+    margin-top: 50px;
+    width: 500px;
+    height: 600px;
+    border: solid;
+    text-align: center;
+     
+}
+    @media only screen and (max-width: 600px) {
+        div{
+              font-size: smaller;
+              position: relative;
+              left: 0%;
+        }
+    @media screen and (orientation: landscape) {
+        div{
+            background-color: lightblue; 
+        }   
+    }  
+    }
+img{
+    border: 2px solid;
+    border-radius: 20px 0px 20px 0px;
+    margin-top: 10px;
+}
+h4{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 20px;
+    width: 90px;
+    height: 25px;
+    border-radius: 15px;
+}
