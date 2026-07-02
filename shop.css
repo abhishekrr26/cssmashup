@@ -1,6 +1,4 @@
 
-
-
 div{
     background-color: aliceblue;
     position: relative;
@@ -18,12 +16,12 @@ div{
               position: relative;
               left: 0%;
         }
+    }
     @media screen and (orientation: landscape) {
         div{
             background-color: lightblue; 
         }   
     }  
-    }
 img{
     border: 2px solid;
     border-radius: 20px 0px 20px 0px;
